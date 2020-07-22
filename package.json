@@ -1,0 +1,16 @@
+{
+  "name": "esit",
+  "version": "1.0.0",
+  "description": "senior project",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.9",
+    "resemblejs": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
